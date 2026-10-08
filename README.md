@@ -18,9 +18,9 @@
 
 # Результаты с консоля
 
-![Результат 19_1](NumberProcessing/Screenshots/Result19_1.png)
+![Результат 19_1](NumberProcessing/Screenshots1/Result19_1.png)
 
-![Результат 191_1](NumberProcessing/Screenshots/Result191_1.png)
+![Результат 191_1](NumberProcessing/Screenshots1/Result191_1.png)
 
 ## Вариант 2. Обработка сообщений
 1. List<string> messages с произвольным набором строк, включая пустые или слишком короткие.
@@ -38,7 +38,7 @@
 
 # Результаты с консоля
 
-![Результат 19_2](DelegatesAndLambdas/Screenshots/Result19_2.png)
+![Результат 19_2](DelegatesAndLambdas/Screenshots2/Result19_2.png)
 
-![Результат 191_2](DelegatesAndLambdas/Screenshots/Result191_2.png)
+![Результат 191_2](DelegatesAndLambdas/Screenshots2/Result191_2.png)
 
